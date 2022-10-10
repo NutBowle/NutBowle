@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @NutBowle
-- 👀 I’m interested in WebDev front end, back end
-- 🌱 I’m currently learning Python, C# & Java
-- 📫 How to reach me Mah page :P
+<h1>Hello there🙌🙌 My Names Jack</h1>
 
-<!---
-NutBowle/NutBowle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Some facts about me 🚀</h2>
+
+🔷I'm a 20 year old studying a bachelor's in Cyber security and digital forensics 🖥️
+
+🔷I programme in primarily Python, C#, NodeJS and JavaScript
+
+🔷I enjoy making web applications using Django, and am currently dabbling in desktop applications using C#
